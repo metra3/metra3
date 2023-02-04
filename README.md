@@ -1,11 +1,12 @@
-<h1 align="center">I'm Mete
-I am a 3rd year Electrical-Electronics Engineering student at Eskişehir Osmangazi University. At the same time, I am a computer engineering student with a double major program.</h1>  
+<h1 align="center">I'm Mete</h1>
+
+<h2 align="center">I am a 3rd year Electrical-Electronics Engineering student at Eskişehir Osmangazi University. At the same time, I am a computer engineering student with a double major program.</h2>  
 <br>  
 
-<h2 align="center">I am currently working on Computer Vision 👁️ and 6G technology 📶</h2>  
+<h3 align="center">I am currently working on Computer Vision 👁️ and 6G technology 📶</h3>  
   
 
-<h2 align="center">I am also working to become a Full-Stack Developer.🌐 </h2>  
+<h3 align="center">I am also working to become a Full-Stack Developer.🌐 </h3>  
   
 
 <br/>  
