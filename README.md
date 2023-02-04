@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-# <div align="center">I'm Mete
+<div align="center">I'm Mete
 I am a 3rd year Electrical-Electronics Engineering student at Eskişehir Osmangazi University. At the same time, I am a computer engineering student with a double major program.</div>  
   
 
