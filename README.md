@@ -2,7 +2,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
 # <div align="center">I'm Mete
 I am a 3rd year Electrical-Electronics Engineering student at Eskişehir Osmangazi University. At the same time, I am a computer engineering student with a double major program.</div>  
   
@@ -14,9 +13,6 @@ I am a 3rd year Electrical-Electronics Engineering student at Eskişehir Osmanga
   
 
 <br/>  
-
-
-## My Skill Set  
 
 
 ### Skills  
@@ -64,22 +60,3 @@ I am a 3rd year Electrical-Electronics Engineering student at Eskişehir Osmanga
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
