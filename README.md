@@ -1,10 +1,4 @@
-<html>
 
-	<head>
-		<title>Merhaba Github</title>
-	</head>
-	
-	<body>
 		<h1 align="center">I'm Mete</h1>
 
 		<h2 align="center">I am a 3rd year Electrical-Electronics Engineering student at Eskişehir Osmangazi University. At the same time, I am a computer engineering student with a double major program.</h2>  
@@ -63,5 +57,3 @@
 		<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=metra3&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 		<br/>  
-	</body>
-</html>
