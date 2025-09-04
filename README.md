@@ -4,10 +4,10 @@
 <h2 align="center">I am a 4th year Electrical-Electronics Engineering student at Eskişehir Osmangazi University. At the same time, I am a computer engineering student with a double major program.</h2>  
 <br>  
 
-<h3 align="center">I am currently working on Mobile Applications and 5G and Beyond technology 📶</h3>  
+<h3 align="center">I am currently working on Mobile Applications and 5G and Beyond technology</h3>  
 
 
-<h3 align="center">I am also working to become a Sotfware Developer.🌐 </h3>  
+<h3 align="center">I am also working to become a Flutter Developer. </h3>  
 
 
 <br/>  
