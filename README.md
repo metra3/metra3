@@ -1,7 +1,7 @@
 
 <h1 align="center">I'm Mete</h1>
 
-<h2 align="center">I am a 4th year Electrical-Electronics Engineering student at Eskişehir Osmangazi University. At the same time, I am a computer engineering student with a double major program.</h2>  
+<h2 align="center">I am a Computer Engineering student at Eskişehir Osmangazi University with a double major program, and I have graduated from Electrical-Electronics Engineering.</h2>
 <br>  
 
 <h3 align="center">I am currently working on Mobile Applications and 5G and Beyond technology</h3>  
