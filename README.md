@@ -84,11 +84,11 @@ I work on <b>Mobile Applications</b>, <b>Artificial Intelligence</b>, <b>IoT Sys
 </a>
 
 <a href="https://www.autodesk.com/" target="_blank">
-  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" alt="AutoCAD" height="50" />
 </a>
 
 <a href="https://www.sketchup.com/" target="_blank">
-  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" alt="SketchUp" />
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketchup/sketchup-original.svg" alt="SketchUp" height="50" />
 </a>
 </div>
 
