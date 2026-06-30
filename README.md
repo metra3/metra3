@@ -33,67 +33,39 @@ I work on <b>Mobile Applications</b>, <b>Artificial Intelligence</b>, <b>IoT Sys
 
 ## 🛠️ Skills & Technologies
 
-<div align="center">
+<p align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
+</p>
 
-<a href="https://flutter.dev/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
-</a>
-
-<a href="https://firebase.google.com/" target="_blank">
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="50" />
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank">
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" />
-</a>
-
-<a href="https://opencv.org/" target="_blank">
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="50" />
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
-</a>
-
-<a href="https://www.cplusplus.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-</a>
-
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-</a>
-
-<a href="https://dotnet.microsoft.com/" target="_blank">
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" height="50" />
-</a>
-
-<a href="https://angular.io/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />
-</a>
-
-<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
-<img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" height="50" />
-</a>
-
-<a href="https://www.arduino.cc/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
-</a>
-
-<a href="https://www.autodesk.com/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" alt="AutoCAD" height="50" />
-</a>
-
-<a href="https://www.sketchup.com/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketchup/sketchup-original.svg" alt="SketchUp" height="50" />
-</a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" alt="SketchUp" />
+</p>
 
 <br/>
-
 ---
 
 ## 🚀 Featured Projects
