@@ -55,10 +55,6 @@ I work on <b>Mobile Applications</b>, <b>Artificial Intelligence</b>, <b>IoT Sys
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="50" />
 </a>
 
-<a href="https://scikit-learn.org/" target="_blank">
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="50" />
-</a>
-
 <a href="https://www.cprogramming.com/" target="_blank">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
 </a>
@@ -87,26 +83,13 @@ I work on <b>Mobile Applications</b>, <b>Artificial Intelligence</b>, <b>IoT Sys
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
 </a>
 
-<a href="https://www.espressif.com/" target="_blank">
-<img style="margin: 10px" src="https://www.svgrepo.com/show/330413/espressif.svg" alt="ESP32 / ESP8266" height="50" />
-</a>
-
-<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank">
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/STMicroelectronics-Logo.svg" alt="STM32" height="50" />
-</a>
-
 <a href="https://www.autodesk.com/" target="_blank">
-<img style="margin: 10px" src="https://www.fileeagle.com/data/2021/05/AutoCAD-48x48.png" alt="AutoCAD" height="50" />
+  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
 </a>
 
 <a href="https://www.sketchup.com/" target="_blank">
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/SketchUp-Logo.png" alt="SketchUp" height="50" />
+  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" alt="SketchUp" />
 </a>
-
-<a href="https://www.unrealengine.com/" target="_blank">
-<img style="margin: 10px" src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="Unreal Engine" height="50" />
-</a>
-
 </div>
 
 <br/>
